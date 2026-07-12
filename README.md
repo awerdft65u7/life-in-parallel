@@ -125,13 +125,7 @@ src/lib/ai-gateway.server.ts
 
 ## 🎥 Demo
 
-(Add demo video link here)
-
----
-
-## 🌐 Live Demo
-
-(Add deployed application link here)
+https://www.loom.com/share/44ebcfefdba94b088d02f5f3255e6233
 
 ---
 
